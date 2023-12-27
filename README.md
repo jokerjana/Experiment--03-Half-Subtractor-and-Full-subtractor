@@ -85,7 +85,7 @@ endmodule
 ![image](https://github.com/jokerjana/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147173630/97fa788e-6757-4bdb-b2d8-45365ec44a11)
 
 ## Timing diagram 
-![image](https://github.com/Raji1009/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89059861/ff8c311c-e9a9-4a62-9c73-389476e10b08)
+![image](https://github.com/jokerjana/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147173630/fe0f7366-9ba2-46c6-a55e-4a5939084579)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
