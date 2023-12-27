@@ -54,7 +54,7 @@ endmodule
 ![image](https://github.com/jokerjana/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147173630/1a2dade9-21d4-48d9-97d0-81983d806d28)
 
 ##  RTL realization
-![image](https://github.com/Raji1009/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89059861/a5259217-f5ae-4649-b591-a21d0618d756)
+![image](https://github.com/jokerjana/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147173630/f2b7397d-ba0e-4607-8d41-4ee0c5501039)
 
 ## Timing diagram 
 ![image](https://github.com/Raji1009/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89059861/e2eed852-f5b0-44f9-a339-6a3f913e7085)
